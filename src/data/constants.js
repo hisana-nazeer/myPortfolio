@@ -208,6 +208,13 @@ export const Bio = {
       date: "January 2023 - October 2023 " ,
       desc: "Contributed to the publication titled 'Hybridized Statistical and Machine Learning Algorithms for Enhanced Stock Price Forecasting." ,
       doc: "https://media.licdn.com/dms/image/D4D22AQGzSpgFaR4hsQ/feedshare-shrink_800/0/1684079632872?e=1687996800&v=beta&t=i0xWn_k32Oj9SxKfc6rARSbOghXD9Ge6WyEb2p2vvrc",
+      skills: [
+        "ARIMA",
+        "SARIMA",
+        "LSTM",
+        "GRU"
+        
+      ],
     }, {
       id: 1,
       img: Eduzell,   
@@ -237,13 +244,13 @@ export const Bio = {
       doc:"https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
       skills: [
         "ReactJS",
-        "Redux",
+        
         "NodeJs",
         "Material UI",
         "HTML",
         "CSS",
         "JavaScript",
-        "Docker",
+        
         "AWS",
         "MongoDB",
       ],
@@ -258,7 +265,15 @@ export const Bio = {
       date: "Dec 2019 - May 2020 " ,
       desc: "Contributing to different open-source projects and learn from industry experts",
       doc: "https://media.licdn.com/dms/image/D4D22AQGzSpgFaR4hsQ/feedshare-shrink_800/0/1684079632872?e=1687996800&v=beta&t=i0xWn_k32Oj9SxKfc6rARSbOghXD9Ge6WyEb2p2vvrc",
-    },
+      skills: [
+        "Presentation and Communication",
+        
+        "Problem Solving",
+        "Leadership and Teamwork",
+        "Customer-Centric Focus",
+        "Cross-Functional Collaboration",
+        "Lead Generation"
+      ],},
     
     
   ];
@@ -267,10 +282,10 @@ export const Bio = {
     {
       id: 0,
       img: amrita,
-      school: "Amrita University, India",
+      school: "Amrita University",
       date: "Oct 2021 - August 2023",
       grade: "9.21 ",
-      desc: "I have done Master's in Computer Applications at Amrita University, India.",
+      desc: "I have completed Master's in Computer Applications from Amrita University, India.",
       degree: "Master of Computer Applications - MCA", 
     },
     {
