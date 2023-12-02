@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/hisana-nazeer/myPortfolio/static/css/main.bf538fe7.css",
-    "main.js": "/hisana-nazeer/myPortfolio/static/js/main.8356414c.js",
-    "static/media/edtech.png": "/hisana-nazeer/myPortfolio/static/media/edtech.9cbd311f8ce0d533781a.png",
-    "static/media/pp.png": "/hisana-nazeer/myPortfolio/static/media/pp.e85d10ca1964cf578a05.png",
-    "static/media/shopfresh.png": "/hisana-nazeer/myPortfolio/static/media/shopfresh.c2c935cc75caf11dfc10.png",
-    "static/media/HeroImage.jpg": "/hisana-nazeer/myPortfolio/static/media/HeroImage.1255b687da2cbf5698c5.jpg",
-    "static/media/C.png": "/hisana-nazeer/myPortfolio/static/media/C.88eb3e0c2506ee30866e.png",
-    "static/media/DS.png": "/hisana-nazeer/myPortfolio/static/media/DS.7b7452d329536b74df1b.png",
-    "static/media/tkm.jpeg": "/hisana-nazeer/myPortfolio/static/media/tkm.b22723580d3c8859f79a.jpeg",
-    "static/media/amrita.png": "/hisana-nazeer/myPortfolio/static/media/amrita.c67663d787d189d9cb31.png",
-    "index.html": "/hisana-nazeer/myPortfolio/index.html",
-    "main.bf538fe7.css.map": "/hisana-nazeer/myPortfolio/static/css/main.bf538fe7.css.map",
-    "main.8356414c.js.map": "/hisana-nazeer/myPortfolio/static/js/main.8356414c.js.map"
+    "main.css": "/myPortfolio/static/css/main.bf538fe7.css",
+    "main.js": "/myPortfolio/static/js/main.e8990e04.js",
+    "static/media/edtech.png": "/myPortfolio/static/media/edtech.9cbd311f8ce0d533781a.png",
+    "static/media/pp.png": "/myPortfolio/static/media/pp.e85d10ca1964cf578a05.png",
+    "static/media/shopfresh.png": "/myPortfolio/static/media/shopfresh.c2c935cc75caf11dfc10.png",
+    "static/media/HeroImage.jpg": "/myPortfolio/static/media/HeroImage.1255b687da2cbf5698c5.jpg",
+    "static/media/C.png": "/myPortfolio/static/media/C.88eb3e0c2506ee30866e.png",
+    "static/media/DS.png": "/myPortfolio/static/media/DS.7b7452d329536b74df1b.png",
+    "static/media/tkm.jpeg": "/myPortfolio/static/media/tkm.b22723580d3c8859f79a.jpeg",
+    "static/media/amrita.png": "/myPortfolio/static/media/amrita.c67663d787d189d9cb31.png",
+    "index.html": "/myPortfolio/index.html",
+    "main.bf538fe7.css.map": "/myPortfolio/static/css/main.bf538fe7.css.map",
+    "main.e8990e04.js.map": "/myPortfolio/static/js/main.e8990e04.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.8356414c.js"
+    "static/js/main.e8990e04.js"
   ]
 }
